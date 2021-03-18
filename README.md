@@ -2,11 +2,17 @@
 
 コードの構造について、
 stock_lstm_2018_gamma.pyを回して実験を行う形になります。
+
 ↓
+
 selection
+
 ↓
+
 optimization
+
 ↓
+
 robo(bayesian_optimizationのコア), predict(LSTMモデルのコア)
 
 LSTM & MTBO
