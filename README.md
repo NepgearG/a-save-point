@@ -15,8 +15,14 @@ optimization
 
 robo(bayesian_optimizationのコア), predict(LSTMモデルのコア)
 
+
+
+
 LSTM & MTBO
 この部分はInherit_nakayamaの中に参照してください。
+
+
+
 
 Transformer
 コードについて、先ず原作者のコードは"https://github.com/LongxingTan/Time-series-prediction" で見ることができます。（Transformer以外のモデルにもあります。e.g. GAN）
